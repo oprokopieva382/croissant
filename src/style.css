@@ -5,6 +5,20 @@ h1,
 p {
   text-align: center;
 }
-.links {
+
+.croissant-pictures {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.photo-head {
+  display: block;
+}
+div a {
+  margin: 0 15px;
+  color: green;
+}
+div {
   text-align: center;
 }
